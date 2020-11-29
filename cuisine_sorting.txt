@@ -1,0 +1,28 @@
+Using TensorFlow backend.
+unique cuisines list:  ['brazilian', 'british', 'cajun_creole', 'chinese', 'filipino', 'french', 'greek', 'indian', 'irish', 'italian', 'jamaican', 'japanese', 'korean', 'mexican', 'moroccan', 'russian', 'southern_us', 'spanish', 'thai', 'vietnamese']
+cuisine = brazilian ; num label =  0
+cuisine = british ; num label =  1
+cuisine = cajun_creole ; num label =  2
+cuisine = chinese ; num label =  3
+cuisine = filipino ; num label =  4
+cuisine = french ; num label =  5
+cuisine = greek ; num label =  6
+cuisine = indian ; num label =  7
+cuisine = irish ; num label =  8
+cuisine = italian ; num label =  9
+cuisine = jamaican ; num label =  10
+cuisine = japanese ; num label =  11
+cuisine = korean ; num label =  12
+cuisine = mexican ; num label =  13
+cuisine = moroccan ; num label =  14
+cuisine = russian ; num label =  15
+cuisine = southern_us ; num label =  16
+cuisine = spanish ; num label =  17
+cuisine = thai ; num label =  18
+cuisine = vietnamese ; num label =  19
+cuisine (output) vectors
+[0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0.]
+[0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+[0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
+[0. 0. 0. 0. 0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
